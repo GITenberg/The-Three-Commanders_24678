@@ -4,7 +4,7 @@ contributor:
   illustrator:
     agent_name: Dugdale, Thomas Cantrell
     alias: Dugdale, T. C. (Thomas Cantrell)
-    birthdate: &id001 1880
+    birthdate: 1880
     deathdate: 1952
     gutenberg_agent_id: '9895'
     url: http://www.gutenberg.org/2009/agents/9895
@@ -18,11 +18,13 @@ creator:
     - Kingston, W.H.G.
     - Kingston, W. H. G.
     birthdate: 1814
-    deathdate: *id001
+    deathdate: 1880
     gutenberg_agent_id: '8659'
     url: http://www.gutenberg.org/2009/agents/8659
     wikipedia: http://en.wikipedia.org/wiki/William_Henry_Giles_Kingston
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/24678#The-Three-Commanders
 gutenberg_issued: '2008-02-23'
 gutenberg_type: Text
 identifiers:
